@@ -18,7 +18,7 @@ export const Projects = () => {
     {
       title: "Smart Surveillance System ",
       description: "YOLO,OpenCV,Firebase",
-      imgUrl: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.labellerr.com%2Fblog%2F6-smart-surveillance-use-cases-using-vision-ai%2F&psig=AOvVaw28WzJPy-eNJSLS_neR4WSN&ust=1716403765614000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCa_ri0n4YDFQAAAAAdAAAAABAE,
+      imgUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.labellerr.com%2Fblog%2F6-smart-surveillance-use-cases-using-vision-ai%2F&psig=AOvVaw28WzJPy-eNJSLS_neR4WSN&ust=1716403765614000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCa_ri0n4YDFQAAAAAdAAAAABAE",
     },
     {
       title: "E-commerce website",
