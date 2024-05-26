@@ -4,6 +4,8 @@ import projImg1 from "../assets/img/ml2.png";
 import projImg2 from "../assets/img/Image.jpg";
 import projImg3 from "../assets/img/m3.png";
 import projImg4 from "../assets/img/vote.png";
+import projImg5 from "../assets/img/game.jpg";
+import projImg6 from "../assets/img/Proxy.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 
 export const Projects = () => {
@@ -13,37 +15,37 @@ export const Projects = () => {
       title: "Shooting Game",
       description: "Web Development",
       imgUrl: projImg1,
-      githubUrl: "https://github.com/your-username/shooting-game",
+      githubUrl: "https://github.com/Nafeessidd1/-Ball-shooting-game",
     },
     {
       title: "Smart Surveillance System",
       description: "YOLO, OpenCV, Firebase",
       imgUrl: projImg2,
-      githubUrl: "https://github.com/your-username/smart-surveillance-system",
+      githubUrl: "https://github.com/Nafeessidd1/Smart-Surveillance-System",
     },
     {
       title: "E-commerce Website",
       description: "Web Development",
       imgUrl: projImg3,
-      githubUrl: "https://github.com/your-username/e-commerce-website",
+      githubUrl: "https://github.com/Nafeessidd1/ShoppingWebsite",
     },
     {
       title: "Realtime Voting System",
       description: "Apache Kafka, Apache Spark, PostgreSQL, Docker",
       imgUrl: projImg4,
-      githubUrl: "https://github.com/your-username/realtime-voting-system",
+      githubUrl: "https://github.com/Nafeessidd1/InstantVoteStream",
+    },
+    {
+      title: "Pong Game using hand gesture",
+      description: "OpenCV",
+      imgUrl: projImg5,
+      githubUrl: "https://github.com/Nafeessidd1/Pong-game-using-hand-gesture",
     },
     {
       title: "Proxy Server",
       description: "Computer Networking",
-      imgUrl: projImg2,
-      githubUrl: "https://github.com/your-username/proxy-server",
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
-      githubUrl: "https://github.com/your-username/business-startup",
+      imgUrl: projImg6,
+      githubUrl: "https://github.com/Nafeessidd1/proxy-server",
     },
   ];
 
