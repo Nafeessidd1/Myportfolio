@@ -3,6 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/ml2.png";
 import projImg2 from "../assets/img/ml1.png";
 import projImg3 from "../assets/img/m3.png";
+import projImg4 from "../assets/img/vote.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 //import 'animate.css';
 //import TrackVisibility from 'react-on-screen';
@@ -26,9 +27,9 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Image frogery Detection",
-      description: "Deep Learning",
-      imgUrl: projImg1,
+      title: "Realtime Voting system",
+      description: "Apache Kafka ,Apache Spark,PostgreSQL,Docker",
+      imgUrl: projImg4,
     },
     {
       title: "Proxy Server",
