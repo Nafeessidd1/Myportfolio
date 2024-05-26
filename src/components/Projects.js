@@ -50,7 +50,7 @@ export const Projects = () => {
           <Col size={12}>
                 <h2>Projects</h2>
                 <p>
-Developed a dynamic Ball Shooting Game using HTML, CSS, and JavaScript, showcasing interactive web design. Crafted an E-commerce Website with HTML, CSS, JavaScript, and React for seamless user experience. Implemented a Machine Learning project for house prediction, combining coding skills with data analysis and model development..</p>
+1.Developed a dynamic Ball Shooting Game using HTML, CSS, and JavaScript, showcasing interactive web design.<br>2.Developed a smart surveillance system for CCTV that triggers an alarm upon detecting unauthorized entry into restricted areas and uses real-time Firebase for facial recognition.<br> 3. Crafted an E-commerce Website with HTML, CSS, JavaScript, and React for seamless user experience.<br>4. Developed a real-time voting system using Apache Kafka, Apache Spark, PostgreSQL, Streamlit, and Docker.<br>5. Implemented a Machine Learning project for house prediction, combining coding skills with data analysis and model development..</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
